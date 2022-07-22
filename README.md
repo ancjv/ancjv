@@ -6,8 +6,8 @@ Front end developer
 
 * 🌍  I'm based in Panama
 * ✉️  You can contact me at [acmp.git@gmail.com](mailto:acmp.git@gmail.com)
-* 🚀  I'm currently working on [Websites Reponsive Wordpress](http://angelcampo.xyz)
-* 🧠  I'm learning Typescript and React
+* 🚀  I'm currently working on [Websites Reponsive](http://angelcampo.xyz)
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects websites
 
 ### Skills
