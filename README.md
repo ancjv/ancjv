@@ -1,8 +1,8 @@
 Hi 👋 My name is Angel Campo
-============================
+=============================
 
 Front end developer
--------------------
+-----------------------------
 
 * 🌍  I'm based in Panama
 * ✉️  You can contact me at [acmp.git@gmail.com](mailto:acmp.git@gmail.com)
