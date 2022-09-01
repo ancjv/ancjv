@@ -4,7 +4,7 @@ Hi 👋 My name is Angel Campo
 Front end developer
 -----------------------------
 
-* 🌍  I'm based in Panama C.
+* 🌍  I'm based in Panama City
 * ✉️  You can contact me at [acmp.git@gmail.com](mailto:acmp.git@gmail.com)
 * 🚀  I'm currently working on [Websites Reponsive](http://angelcampo.xyz)
 * 🧠  I'm learning React and JS
